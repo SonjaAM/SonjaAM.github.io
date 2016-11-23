@@ -7,7 +7,7 @@
  */
 
 html {
-  font-family: sans-serif; /* 1 */
+  font-family: helvetica; /* 1 */
   -webkit-text-size-adjust: 100%; /* 2 */
   -ms-text-size-adjust: 100%; /* 2 */
 }
@@ -456,7 +456,7 @@ header {
   border-bottom: solid 1px #275da1;
 }
 
-header h1 {
+header h1 { 
   width: 540px;
   margin-top: 0;
   margin-bottom: 0.2em;
